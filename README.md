@@ -23,13 +23,9 @@
 ║   $ cat about.txt                                    ║
 ║   > 2nd year CS @ VIT                                ║
 ║   > chasing: SDE · Data · AI/ML internships          ║
-║   > currently: learning JS, React, Node, MongoDB     ║
-║   > domain interest: fintech                         ║
-║   > philosophy: "build first, perfect later"         ║
 ║                                                      ║
 ║   $ ls projects/                                     ║
-║   > trustlift/  churn-predictor/                     ║
-║     internship-tracker/  wc26-analysis/              ║
+║   > trustlift/                                       ║
 ║                                                      ║
 ║   $ status                                           ║
 ║   > open to remote internships ✦                     ║
@@ -52,19 +48,6 @@
 ![Python](https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-00D9FF?style=flat-square&logo=c&logoColor=black)
 
-**[ learning right now ]**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00D9FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF)
-
-**[ data & ml ]**
-
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00D9FF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=00D9FF)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00D9FF)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00D9FF)
 
 </div>
 
@@ -77,16 +60,6 @@
 │                                                                     │
 │  🏦  TrustLift                                    [ deploying ]     │
 │      fintech trust scoring app · Python                             │
-│                                                                     │
-│  📉  Customer Churn Predictor                     [ nov 2025 ]      │
-│      predict churn with ML · scikit-learn · Streamlit               │
-│                                                                     │
-│  📋  Internship Tracker                           [ aug 2025 ]      │
-│      full-stack app · React + Node + MongoDB + JWT                  │
-│                                                                     │
-│  ⚽  WC26 Performance Analysis                    [ sep 2025 ]      │
-│      knockout patterns · penalty data · Python + SQL                │
-│                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
